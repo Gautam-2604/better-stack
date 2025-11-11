@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "@repo/api",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/express": "^5.0.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "db": "*"
   }
 }
