@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@types/express": "^5.0.5",
+    "@types/jsonwebtoken": "^9.0.10",
+    "db": "*",
     "express": "^5.1.0",
-    "db": "*"
+    "jsonwebtoken": "^9.0.2",
+    "zod": "^4.1.12"
   }
 }
